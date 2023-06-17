@@ -26,6 +26,8 @@ print(address)
 print(phone_number)
 print(email)
 ```
+##Documentation
+For more detailed information and usage examples, please refer to the [documentation](https://pypi.org/project/databurst/)
 
 ## Contributing
 
